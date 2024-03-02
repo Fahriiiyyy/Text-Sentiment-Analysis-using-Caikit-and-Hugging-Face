@@ -3,7 +3,7 @@
 # Author : Cognitive Classs AI
 
 
-Mentee assignment from IBM Avance AI @ Infinite Learning Course completion of Text Sentiment Analysis using Caikit and Hugging Face
+Mentee assignment from IBM Avance AI @ Infinite Learning Course completion of Text Sentiment Analysis using Caikit and Hugging Face From CongnitiveClass.AI
 
 
 
