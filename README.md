@@ -1,16 +1,20 @@
-Text Sentiment Analysis using Caikit and Hugging Face
+# Text Sentiment Analysis using Caikit and Hugging Face
 
-Author : Cognitive Class AI
+# Author : Cognitive Classs AI
 
-Mantee Assignment From IBM Advance AI @Infinite Learning Course completion of Text Sentiment Analysis using Caikit and Hugging Face from CognitiveClass.ai
-Mantee Info
 
-Name : Fahri Wal Fahruddin 
-Program : IBM Advance AI
+Mentee assignment from IBM Avance AI @ Infinite Learning Course completion of Text Sentiment Analysis using Caikit and Hugging Face
 
-Tech Stack
-Python
-HTML
-CSS
-JavaScript
-Flask
+
+
+#### Nama : Fahri Wal Fahruddin
+#### Program : IBM Advance AI
+
+
+# Tech Stack :
+
+- Python
+- HTML
+- CSS
+- JavaScript
+- Flask
